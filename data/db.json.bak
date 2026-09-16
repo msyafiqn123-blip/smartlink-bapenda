@@ -1,0 +1,217 @@
+{
+  "admin": {
+    "passwordHash": "1a28d6a28b95dfc47a52a457b5a2e0f026147d0078d818b73981c0be9a0384b7",
+    "salt": "4827e5cd513f87298ae9fb536f4af61a"
+  },
+  "profile": {
+    "title": "SmartLink",
+    "bio": "Subbidang Pendataan Penilaian PBB dan BPHTB",
+    "avatarUrl": "/bapenda.png",
+    "theme": "dark"
+  },
+  "links": [
+    {
+      "id": "link-1",
+      "type": "link",
+      "title": "Verifikasi Lapangan PBB-BPHTB",
+      "url": "https://verlap.streamlit.app",
+      "thumbnail": "/thumbnails/thumb_1.png",
+      "isActive": true,
+      "order": 1,
+      "createdAt": "2026-09-14T07:58:12.976Z",
+      "clicks": 0
+    },
+    {
+      "id": "hdr-2",
+      "type": "header",
+      "title": "BERITA ACARA (BA)",
+      "isActive": true,
+      "order": 2,
+      "createdAt": "2026-09-14T07:58:12.976Z",
+      "clicks": 0
+    },
+    {
+      "id": "link-2",
+      "type": "link",
+      "title": "2026 BA",
+      "url": "https://drive.google.com/drive/folders/1dddxf0Y7N-5Y5H8tNUJGfvHXBg6XLjGD?usp=sharing",
+      "thumbnail": null,
+      "isActive": true,
+      "order": 3,
+      "createdAt": "2026-09-14T07:58:12.976Z",
+      "clicks": 0
+    },
+    {
+      "id": "link-3",
+      "type": "link",
+      "title": "2025 BA",
+      "url": "https://drive.google.com/drive/folders/1Ie1CLWx8F_56WMh6EbfZF7LArACRTvHO?usp=sharing",
+      "thumbnail": null,
+      "isActive": true,
+      "order": 5,
+      "createdAt": "2026-09-14T07:58:12.976Z",
+      "clicks": 0
+    },
+    {
+      "id": "link-4",
+      "type": "link",
+      "title": "ARSIP BA",
+      "url": "https://drive.google.com/drive/u/0/folders/1dP9WXS7MPGwJvDhd1KNTpXyI8AXWDLwp",
+      "thumbnail": null,
+      "isActive": true,
+      "order": 6,
+      "createdAt": "2026-09-14T07:58:12.976Z",
+      "clicks": 0
+    },
+    {
+      "id": "link-5",
+      "type": "link",
+      "title": "TTE Surat Perintah",
+      "url": "https://drive.google.com/drive/folders/1vwT9x3I992FNC8ek05f4c31M3fCgH0ZH?usp=sharing",
+      "thumbnail": null,
+      "isActive": true,
+      "order": 4,
+      "createdAt": "2026-09-14T07:58:12.976Z",
+      "clicks": 0
+    },
+    {
+      "id": "link-8",
+      "type": "link",
+      "title": "BA 2026",
+      "url": "https://docs.google.com/spreadsheets/d/1PXecV5-RbgF9oDmSXtBukikHacqBz5JDIsVI7dS1RpI/edit?gid=860149025#gid=860149025",
+      "thumbnail": "/thumbnails/thumb_8.png",
+      "isActive": true,
+      "order": 7,
+      "createdAt": "2026-09-14T07:58:12.976Z",
+      "clicks": 0
+    },
+    {
+      "id": "link-9",
+      "type": "link",
+      "title": "BA 2025",
+      "url": "https://docs.google.com/spreadsheets/d/1ks72Ez52rkMBdvLyQAlay6H8VdDncOPiyhX0qamUPEI/edit?usp=sharing",
+      "thumbnail": null,
+      "isActive": true,
+      "order": 8,
+      "createdAt": "2026-09-14T07:58:12.976Z",
+      "clicks": 0
+    },
+    {
+      "id": "hdr-3",
+      "type": "header",
+      "title": "PENDAFTARAN PBB & BPHTB",
+      "isActive": true,
+      "order": 9,
+      "createdAt": "2026-09-14T07:58:12.976Z",
+      "clicks": 0
+    },
+    {
+      "id": "link-6",
+      "type": "link",
+      "title": "PENDAFTARAN PBB 2026",
+      "url": "https://docs.google.com/spreadsheets/d/1mrbqAXbRDK7MR-rjlMsVxFzzo6jlhxHpbtHAT5W55RQ/edit?usp=sharing",
+      "thumbnail": "/thumbnails/thumb_6.png",
+      "isActive": true,
+      "order": 10,
+      "createdAt": "2026-09-14T07:58:12.976Z",
+      "clicks": 0
+    },
+    {
+      "id": "link-7",
+      "type": "link",
+      "title": "PENDAFTARAN PBB 2025",
+      "url": "https://docs.google.com/spreadsheets/d/1X3s77rlZqTq8Du_7SbcC4Z3oFUvvSfBJMhSHxwm5Wps/edit?usp=sharing",
+      "thumbnail": null,
+      "isActive": true,
+      "order": 11,
+      "createdAt": "2026-09-14T07:58:12.976Z",
+      "clicks": 0
+    },
+    {
+      "id": "link-10",
+      "type": "link",
+      "title": "PENDAFTARAN BPHTB 2025",
+      "url": "https://docs.google.com/spreadsheets/d/1wXklOIsIIo5sX6knQ_vG7cAvKpTkiazVktVq1iE0NJE/edit?usp=sharing",
+      "thumbnail": null,
+      "isActive": true,
+      "order": 12,
+      "createdAt": "2026-09-14T07:58:12.976Z",
+      "clicks": 0
+    },
+    {
+      "id": "link-11",
+      "type": "link",
+      "title": "FILE BPHTB TH 2025",
+      "url": "https://docs.google.com/spreadsheets/d/1Quuof32hRgphZwSQMMjNSqMnEGoExnL9WWUGuAWSs1Q/edit?usp=sharing",
+      "thumbnail": null,
+      "isActive": true,
+      "order": 13,
+      "createdAt": "2026-09-14T07:58:12.976Z",
+      "clicks": 0
+    },
+    {
+      "id": "hdr-4",
+      "type": "header",
+      "title": "DATA & DOKUMEN ARSIP",
+      "isActive": true,
+      "order": 14,
+      "createdAt": "2026-09-14T07:58:12.976Z",
+      "clicks": 0
+    },
+    {
+      "id": "link-12",
+      "type": "link",
+      "title": "DATA BIAYA BPHTB",
+      "url": "https://docs.google.com/spreadsheets/d/1_aYfEU6798bA_ap6mzRBVVBLzNRfaQfrwhTZPSCquug/edit?usp=sharing",
+      "thumbnail": "/thumbnails/thumb_12.png",
+      "isActive": true,
+      "order": 15,
+      "createdAt": "2026-09-14T07:58:12.976Z",
+      "clicks": 0
+    },
+    {
+      "id": "link-13",
+      "type": "link",
+      "title": "ARSIP KELUAR MASUK PBB BPHTB",
+      "url": "https://drive.google.com/drive/folders/1JNgS-Jwj73jkGKafjw6WnI0jsfKYbMAI?usp=drive_link",
+      "thumbnail": null,
+      "isActive": true,
+      "order": 16,
+      "createdAt": "2026-09-14T07:58:12.976Z",
+      "clicks": 0
+    },
+    {
+      "id": "link-14",
+      "type": "link",
+      "title": "Data Tower",
+      "url": "https://docs.google.com/spreadsheets/d/12-zpycYpluYP_YQIH2OFsVzQAaxOQsLHHndFuHZ6iHc/edit?usp=sharing",
+      "thumbnail": null,
+      "isActive": true,
+      "order": 17,
+      "createdAt": "2026-09-14T07:58:12.976Z",
+      "clicks": 0
+    },
+    {
+      "id": "link-15",
+      "type": "link",
+      "title": "Data Tanah Desa",
+      "url": "https://docs.google.com/spreadsheets/d/1SHf6C700APjm7ZUtv7Zc9RgW5ieWT3Z_DIdiK1AeItU/edit?usp=sharing",
+      "thumbnail": "/thumbnails/thumb_15.png",
+      "isActive": true,
+      "order": 18,
+      "createdAt": "2026-09-14T07:58:12.976Z",
+      "clicks": 0
+    },
+    {
+      "id": "link-16",
+      "type": "link",
+      "title": "Jawaban Formulir Konsultasi BPHTB",
+      "url": "https://docs.google.com/spreadsheets/d/1-nny60JvFbzdo-mmFWUJtHjIcJ6g9vVpYcRxqb5doyQ/edit?usp=sharing",
+      "thumbnail": "/thumbnails/thumb_16.png",
+      "isActive": true,
+      "order": 19,
+      "createdAt": "2026-09-14T07:58:12.976Z",
+      "clicks": 0
+    }
+  ]
+}

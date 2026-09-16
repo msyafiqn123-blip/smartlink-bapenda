@@ -1,0 +1,388 @@
+{
+  "admin": {
+    "passwordHash": "1a28d6a28b95dfc47a52a457b5a2e0f026147d0078d818b73981c0be9a0384b7",
+    "salt": "4827e5cd513f87298ae9fb536f4af61a"
+  },
+  "profile": {
+    "title": "SmartLink",
+    "bio": "Subbidang Pendataan Penilaian PBB dan BPHTB",
+    "avatarUrl": "/bapenda.png",
+    "theme": "dark"
+  },
+  "links": [
+    {
+      "id": "link-585141563",
+      "type": "link",
+      "title": "dhkp.pdf - Google Drive",
+      "url": "https://drive.google.com/file/d/19aeLiCZQKDrHyvepa3jZmzGyJ9S8dCWC/view?usp=drive_link",
+      "thumbnail": null,
+      "isActive": false,
+      "order": 1,
+      "createdAt": "2026-09-14T08:22:29.963Z",
+      "clicks": 0
+    },
+    {
+      "id": "link-578194922",
+      "type": "link",
+      "title": "RT RW CAMPAKA - Google Sheets",
+      "url": "https://docs.google.com/spreadsheets/d/1_AznqDuGDzLd0P2rZO60v6QHr28kLsvfW_4-0J-cW90/edit?usp=sharing",
+      "thumbnail": null,
+      "isActive": false,
+      "order": 2,
+      "createdAt": "2026-09-14T08:22:29.968Z",
+      "clicks": 0
+    },
+    {
+      "id": "link-578160991",
+      "type": "link",
+      "title": "Verifikasi Lapangan PBB-BPHTB",
+      "url": "https://verlap.streamlit.app",
+      "thumbnail": "/thumbnails/thumb_lt_578160991.png",
+      "isActive": true,
+      "order": 3,
+      "createdAt": "2026-09-14T08:22:30.591Z",
+      "clicks": 0
+    },
+    {
+      "id": "link-563834047",
+      "type": "link",
+      "title": "Koreksi Kategori Perusahaan - Google Sheets",
+      "url": "https://docs.google.com/spreadsheets/d/1W-TF3C_hLqTrunn7OrhmCWk1Bw8UNIe_628WSAFJIa8/edit?usp=sharing",
+      "thumbnail": "/thumbnails/thumb_lt_563834047.png",
+      "isActive": false,
+      "order": 4,
+      "createdAt": "2026-09-14T08:22:31.315Z",
+      "clicks": 0
+    },
+    {
+      "id": "link-533452031",
+      "type": "link",
+      "title": "2026 BA",
+      "url": "https://drive.google.com/drive/folders/1dddxf0Y7N-5Y5H8tNUJGfvHXBg6XLjGD?usp=sharing",
+      "thumbnail": null,
+      "isActive": true,
+      "order": 5,
+      "createdAt": "2026-09-14T08:22:31.316Z",
+      "clicks": 0
+    },
+    {
+      "id": "link-531722611",
+      "type": "link",
+      "title": "PENDATAAN SPPT BPHTB 2025",
+      "url": "https://docs.google.com/spreadsheets/d/1ulqXvtbJAVadhjRrQAHCo3fcVrvvIko-gRXMoJ16b_o/edit?usp=sharing",
+      "thumbnail": "/thumbnails/thumb_lt_531722611.png",
+      "isActive": false,
+      "order": 6,
+      "createdAt": "2026-09-14T08:22:31.808Z",
+      "clicks": 0
+    },
+    {
+      "id": "link-427627371",
+      "type": "link",
+      "title": "2025 BA",
+      "url": "https://drive.google.com/drive/folders/1Ie1CLWx8F_56WMh6EbfZF7LArACRTvHO?usp=sharing",
+      "thumbnail": null,
+      "isActive": true,
+      "order": 7,
+      "createdAt": "2026-09-14T08:22:31.808Z",
+      "clicks": 0
+    },
+    {
+      "id": "link-575697780",
+      "type": "link",
+      "title": "ARSIP BA",
+      "url": "https://drive.google.com/drive/u/0/folders/1dP9WXS7MPGwJvDhd1KNTpXyI8AXWDLwp",
+      "thumbnail": null,
+      "isActive": true,
+      "order": 8,
+      "createdAt": "2026-09-14T08:22:31.808Z",
+      "clicks": 0
+    },
+    {
+      "id": "link-592922539",
+      "type": "link",
+      "title": "TTE Surat Perintah",
+      "url": "https://drive.google.com/drive/folders/1vwT9x3I992FNC8ek05f4c31M3fCgH0ZH?usp=sharing",
+      "thumbnail": null,
+      "isActive": true,
+      "order": 9,
+      "createdAt": "2026-09-14T08:22:31.808Z",
+      "clicks": 0
+    },
+    {
+      "id": "link-347487708",
+      "type": "link",
+      "title": "2024 BA",
+      "url": "https://drive.google.com/drive/folders/1bVjPqMl2yyUu_8LwqFT57AXWuxRZOUKe?usp=sharing",
+      "thumbnail": null,
+      "isActive": false,
+      "order": 10,
+      "createdAt": "2026-09-14T08:22:31.808Z",
+      "clicks": 0
+    },
+    {
+      "id": "hdr-335914670",
+      "type": "header",
+      "title": "PBB",
+      "url": "",
+      "thumbnail": null,
+      "isActive": true,
+      "order": 11,
+      "createdAt": "2026-09-14T08:22:31.808Z",
+      "clicks": 0
+    },
+    {
+      "id": "link-539510149",
+      "type": "link",
+      "title": "PENDAFTARAN PBB 2026",
+      "url": "https://docs.google.com/spreadsheets/d/1mrbqAXbRDK7MR-rjlMsVxFzzo6jlhxHpbtHAT5W55RQ/edit?usp=sharing",
+      "thumbnail": "/thumbnails/thumb_lt_539510149.png",
+      "isActive": true,
+      "order": 12,
+      "createdAt": "2026-09-14T08:22:32.462Z",
+      "clicks": 0
+    },
+    {
+      "id": "link-320636457",
+      "type": "link",
+      "title": "PENDAFTARAN PBB 2025",
+      "url": "https://docs.google.com/spreadsheets/d/1X3s77rlZqTq8Du_7SbcC4Z3oFUvvSfBJMhSHxwm5Wps/edit?usp=sharing",
+      "thumbnail": null,
+      "isActive": true,
+      "order": 13,
+      "createdAt": "2026-09-14T08:22:32.462Z",
+      "clicks": 0
+    },
+    {
+      "id": "link-540727520",
+      "type": "link",
+      "title": "BA 2026",
+      "url": "https://docs.google.com/spreadsheets/d/1PXecV5-RbgF9oDmSXtBukikHacqBz5JDIsVI7dS1RpI/edit?gid=860149025#gid=860149025",
+      "thumbnail": "/thumbnails/thumb_lt_540727520.png",
+      "isActive": true,
+      "order": 14,
+      "createdAt": "2026-09-14T08:22:32.952Z",
+      "clicks": 0
+    },
+    {
+      "id": "link-320638606",
+      "type": "link",
+      "title": "BA 2025",
+      "url": "https://docs.google.com/spreadsheets/d/1ks72Ez52rkMBdvLyQAlay6H8VdDncOPiyhX0qamUPEI/edit?usp=sharing",
+      "thumbnail": null,
+      "isActive": true,
+      "order": 15,
+      "createdAt": "2026-09-14T08:22:32.952Z",
+      "clicks": 0
+    },
+    {
+      "id": "link-357174385",
+      "type": "link",
+      "title": "PENDAFTARAN PBB 2024",
+      "url": "https://docs.google.com/spreadsheets/d/1YQ66saF2nzB9XBXvKKbej3GE6b4chT4b4KBs4bRQ7Qc/edit?usp=sharing",
+      "thumbnail": "/thumbnails/thumb_lt_357174385.png",
+      "isActive": false,
+      "order": 16,
+      "createdAt": "2026-09-14T08:22:33.485Z",
+      "clicks": 0
+    },
+    {
+      "id": "link-357174480",
+      "type": "link",
+      "title": "BA 2024",
+      "url": "https://docs.google.com/spreadsheets/d/1-GYJNr4A3fJmmlSv81LPpvMPvmpqm-JoTctJdMi4vbA/edit?usp=sharing",
+      "thumbnail": "/thumbnails/thumb_lt_357174480.png",
+      "isActive": false,
+      "order": 17,
+      "createdAt": "2026-09-14T08:22:33.827Z",
+      "clicks": 0
+    },
+    {
+      "id": "hdr-335914709",
+      "type": "header",
+      "title": "BPHTB",
+      "url": "",
+      "thumbnail": null,
+      "isActive": true,
+      "order": 18,
+      "createdAt": "2026-09-14T08:22:33.827Z",
+      "clicks": 0
+    },
+    {
+      "id": "link-335914907",
+      "type": "link",
+      "title": "PENDAFTARAN BPHTB 2025",
+      "url": "https://docs.google.com/spreadsheets/d/1wXklOIsIIo5sX6knQ_vG7cAvKpTkiazVktVq1iE0NJE/edit?usp=sharing",
+      "thumbnail": null,
+      "isActive": true,
+      "order": 19,
+      "createdAt": "2026-09-14T08:22:33.827Z",
+      "clicks": 0
+    },
+    {
+      "id": "link-321095034",
+      "type": "link",
+      "title": "FILE BPHTB TH 2025",
+      "url": "https://docs.google.com/spreadsheets/d/1Quuof32hRgphZwSQMMjNSqMnEGoExnL9WWUGuAWSs1Q/edit?usp=sharing",
+      "thumbnail": null,
+      "isActive": true,
+      "order": 20,
+      "createdAt": "2026-09-14T08:22:33.827Z",
+      "clicks": 0
+    },
+    {
+      "id": "link-353495212",
+      "type": "link",
+      "title": "PENDAFTARAN BPHTB 2024",
+      "url": "https://docs.google.com/spreadsheets/d/1d4Weg1a78Qnb8bPFCXpeCpNXmxnyyLe_MZVjDvGCNA0/edit?usp=sharing",
+      "thumbnail": "/thumbnails/thumb_lt_353495212.png",
+      "isActive": false,
+      "order": 21,
+      "createdAt": "2026-09-14T08:22:34.274Z",
+      "clicks": 0
+    },
+    {
+      "id": "link-353495246",
+      "type": "link",
+      "title": "FILE BPHTB TH 2024",
+      "url": "https://docs.google.com/spreadsheets/u/1/d/1ThRUVtVVrwcPMb90eeiMZWRKcRy5PktZOUsLP3Vj2d8/edit#gid=1966753612",
+      "thumbnail": "/thumbnails/thumb_lt_353495246.png",
+      "isActive": false,
+      "order": 22,
+      "createdAt": "2026-09-14T08:22:34.645Z",
+      "clicks": 0
+    },
+    {
+      "id": "link-355586076",
+      "type": "link",
+      "title": "DATA BIAYA BPHTB",
+      "url": "https://docs.google.com/spreadsheets/d/1_aYfEU6798bA_ap6mzRBVVBLzNRfaQfrwhTZPSCquug/edit?usp=sharing",
+      "thumbnail": "/thumbnails/thumb_lt_355586076.png",
+      "isActive": true,
+      "order": 23,
+      "createdAt": "2026-09-14T08:22:34.947Z",
+      "clicks": 0
+    },
+    {
+      "id": "link-395541405",
+      "type": "link",
+      "title": "ARSIP KELUAR MASUK PBB BPHTB",
+      "url": "https://drive.google.com/drive/folders/1JNgS-Jwj73jkGKafjw6WnI0jsfKYbMAI?usp=drive_link",
+      "thumbnail": null,
+      "isActive": true,
+      "order": 24,
+      "createdAt": "2026-09-14T08:22:34.947Z",
+      "clicks": 0
+    },
+    {
+      "id": "hdr-323125593",
+      "type": "header",
+      "title": "HARGA PASAR",
+      "url": "",
+      "thumbnail": null,
+      "isActive": false,
+      "order": 25,
+      "createdAt": "2026-09-14T08:22:34.947Z",
+      "clicks": 0
+    },
+    {
+      "id": "link-328666365",
+      "type": "link",
+      "title": "DATA HARGA PASAR PBB",
+      "url": "https://docs.google.com/spreadsheets/d/1HbZcxcmXoEhkvqW7gO7mH3VOnHoTufRbmQA8IdEkCTI/edit?usp=sharing",
+      "thumbnail": "/thumbnails/thumb_lt_328666365.png",
+      "isActive": false,
+      "order": 26,
+      "createdAt": "2026-09-14T08:22:35.477Z",
+      "clicks": 0
+    },
+    {
+      "id": "link-323126533",
+      "type": "link",
+      "title": "File Harga Data Pasar",
+      "url": "https://drive.google.com/drive/folders/1Kx21o48to99g_e2L6bLWcASVENU3wMvP?usp=sharing",
+      "thumbnail": null,
+      "isActive": false,
+      "order": 27,
+      "createdAt": "2026-09-14T08:22:35.477Z",
+      "clicks": 0
+    },
+    {
+      "id": "link-335133762",
+      "type": "link",
+      "title": "Dokumentasi Desa",
+      "url": "https://drive.google.com/drive/folders/1EQF3wlddoBL6aRs1gBsUgRCUhy6ta-NG?usp=sharing",
+      "thumbnail": "/thumbnails/thumb_lt_335133762.svg",
+      "isActive": false,
+      "order": 28,
+      "createdAt": "2026-09-14T08:22:35.856Z",
+      "clicks": 0
+    },
+    {
+      "id": "link-343724610",
+      "type": "link",
+      "title": "LAMPIRAN PERATURAN",
+      "url": "https://drive.google.com/drive/folders/1veBrdbl1rvto6JnHA_5RPt-J5FS1K1y_?usp=sharing",
+      "thumbnail": null,
+      "isActive": false,
+      "order": 29,
+      "createdAt": "2026-09-14T08:22:35.856Z",
+      "clicks": 0
+    },
+    {
+      "id": "hdr-333240183",
+      "type": "header",
+      "title": "DATA PENDANIL",
+      "url": "",
+      "thumbnail": null,
+      "isActive": true,
+      "order": 30,
+      "createdAt": "2026-09-14T08:22:35.856Z",
+      "clicks": 0
+    },
+    {
+      "id": "link-333240148",
+      "type": "link",
+      "title": "File Data Lahan Sawah",
+      "url": "https://drive.google.com/drive/folders/16PamcA3pWckc-fx1ulmGJXspZdXPDGGd?usp=sharing",
+      "thumbnail": null,
+      "isActive": false,
+      "order": 31,
+      "createdAt": "2026-09-14T08:22:35.856Z",
+      "clicks": 0
+    },
+    {
+      "id": "link-391665154",
+      "type": "link",
+      "title": "Data Tower",
+      "url": "https://docs.google.com/spreadsheets/d/12-zpycYpluYP_YQIH2OFsVzQAaxOQsLHHndFuHZ6iHc/edit?usp=sharing",
+      "thumbnail": null,
+      "isActive": true,
+      "order": 32,
+      "createdAt": "2026-09-14T08:22:35.856Z",
+      "clicks": 0
+    },
+    {
+      "id": "link-392401640",
+      "type": "link",
+      "title": "Data Tanah Desa",
+      "url": "https://docs.google.com/spreadsheets/d/1SHf6C700APjm7ZUtv7Zc9RgW5ieWT3Z_DIdiK1AeItU/edit?usp=sharing",
+      "thumbnail": "/thumbnails/thumb_lt_392401640.png",
+      "isActive": true,
+      "order": 33,
+      "createdAt": "2026-09-14T08:22:36.108Z",
+      "clicks": 0
+    },
+    {
+      "id": "link-426033997",
+      "type": "link",
+      "title": "Jawaban Formulir Konsultasi BPHTB",
+      "url": "https://docs.google.com/spreadsheets/d/1-nny60JvFbzdo-mmFWUJtHjIcJ6g9vVpYcRxqb5doyQ/edit?usp=sharing",
+      "thumbnail": "/thumbnails/thumb_lt_426033997.png",
+      "isActive": true,
+      "order": 34,
+      "createdAt": "2026-09-14T08:22:36.406Z",
+      "clicks": 0
+    }
+  ]
+}
