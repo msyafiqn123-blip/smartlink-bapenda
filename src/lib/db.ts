@@ -59,16 +59,11 @@ function getDefaultData(): AppData {
 
 export function readDb(): AppData {
   try {
-    if (!fs.existsSync(DATA_DIR)) {
-      fs.mkdirSync(DATA_DIR, { recursive: true });
+    if (fs.existsSync(DB_FILE)) {
+      const raw = fs.readFileSync(DB_FILE, "utf-8");
+      return JSON.parse(raw) as AppData;
     }
-    if (!fs.existsSync(DB_FILE)) {
-      const initialData = getDefaultData();
-      fs.writeFileSync(DB_FILE, JSON.stringify(initialData, null, 2), "utf-8");
-      return initialData;
-    }
-    const raw = fs.readFileSync(DB_FILE, "utf-8");
-    return JSON.parse(raw) as AppData;
+    return getDefaultData();
   } catch (err) {
     console.error("Error reading database:", err);
     return getDefaultData();
