@@ -65,8 +65,9 @@ export async function checkPassword(password: string): Promise<boolean> {
     return true;
   }
 
-  // 2. Default fallback jika admin123
-  if (inputPwd === "admin123") {
+  // 2. Default fallback password yang diizinkan (admin123 & bapenda)
+  const allowedDefaults = ["admin123", "bapenda", "bapenda123"];
+  if (allowedDefaults.includes(inputPwd) || allowedDefaults.includes(inputPwd.toLowerCase())) {
     return true;
   }
 

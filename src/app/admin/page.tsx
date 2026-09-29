@@ -605,7 +605,7 @@ export default function AdminPage() {
               />
             </div>
             <h1 className="text-xl font-extrabold tracking-tight text-white">
-              Akses Admin SmartLink
+              SmartLink
             </h1>
             <p className="text-amber-100/80 text-xs mt-1 font-medium">
               Bapenda Kabupaten Purwakarta

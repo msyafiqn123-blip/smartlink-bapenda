@@ -363,17 +363,6 @@ export default function HomePage() {
           <p className={`text-[11px] ${isLight ? "text-slate-500" : "text-slate-500"}`}>
             SmartLink Subbidang Pendataan Penilaian PBB dan BPHTB &bull; Bapenda Purwakarta
           </p>
-          <Link
-            href="/admin"
-            className={`inline-flex items-center gap-1.5 transition mt-1 py-1 px-3 rounded-full ${
-              isLight
-                ? "text-slate-600 hover:text-[#ea580c] hover:bg-slate-200/60"
-                : "text-slate-400 hover:text-[#f97316] hover:bg-white/5"
-            }`}
-          >
-            <Lock className="w-3.5 h-3.5" />
-            <span>{isAdmin ? "Buka Mode Admin" : "Akses Admin"}</span>
-          </Link>
         </footer>
       </div>
     </div>
